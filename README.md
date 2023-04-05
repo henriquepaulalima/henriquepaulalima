@@ -2,7 +2,7 @@
 I'm an Information Systems student, Web Developer focused on front-end development, fascinated by science and technology and always looking to solve problems, I'm interested in expanding and sharing knowledge, creating good relationships along the way and participating in innovative projects.
 
 <div>
-  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=henriquepaulalima&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=algolia">
+  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=henriquepaulalima&hide=stars,prs&count_private=true&show_icons=true&theme=algolia">
   <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriquepaulalima&hide=c&langs_count=5&layout=compact&theme=algolia&count_private=true">
 </div>
 
