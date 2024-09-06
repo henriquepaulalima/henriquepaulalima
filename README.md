@@ -3,7 +3,7 @@ I'm an Information Systems student, Web Developer focused on front-end developme
 
 <div>
   <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=henriquepaulalima&hide=stars,prs&count_private=true&show_icons=true&theme=algolia">
-  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriquepaulalima&hide=c&langs_count=5&layout=compact&theme=algolia&count_private=true">
+  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriquepaulalima&hide=html&langs_count=5&layout=compact&theme=algolia&count_private=true">
 </div>
 
 ##
